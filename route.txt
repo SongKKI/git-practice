@@ -1,0 +1,6 @@
+go straight
+turn right
+turn left
+go straght
+look down
+
